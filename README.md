@@ -50,7 +50,7 @@
 
 ```bash
 # Клонувати репозиторій
-git clone https://github.com/yourusername/Ucode_Libmx.git
+git clone https://github.com/ArchieDev242/Ucode_Libmx.git
 
 # Перейти до директорії проєкту
 cd Ucode_Libmx
@@ -430,7 +430,7 @@ Create your own library of functions in C. This library should include a variety
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Ucode_Libmx.git
+git clone https://github.com/ArchieDev242/Ucode_Libmx.git
 
 # Navigate to the project directory
 cd Ucode_Libmx
@@ -811,7 +811,7 @@ Erstellen Sie Ihre eigene Funktionsbibliothek in C. Diese Bibliothek sollte vers
 
 ```bash
 # Repository klonen
-git clone https://github.com/yourusername/Ucode_Libmx.git
+git clone https://github.com/ArchieDev242/Ucode_Libmx.git
 
 # In das Projektverzeichnis wechseln
 cd Ucode_Libmx
