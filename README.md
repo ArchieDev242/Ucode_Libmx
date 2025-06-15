@@ -56,7 +56,7 @@ git clone https://github.com/ArchieDev242/Ucode_Libmx.git
 cd Ucode_Libmx
 
 # Скомпілювати бібліотеку
-make
+make all
 
 # Зв'язати з вашим проєктом
 gcc your_program.c -L. -lmx -o your_program
@@ -311,7 +311,7 @@ libmx/
 │   ├── string/       # Функції для роботи з рядками
 │   ├── memory/       # Функції керування пам'яттю
 │   └── list/         # Функції для роботи зі списками
-├── Makefile          # Інструкції для компіляції
+├── make allfile          # Інструкції для компіляції
 └── README.md         # Документація
 ```
 
@@ -436,7 +436,7 @@ git clone https://github.com/ArchieDev242/Ucode_Libmx.git
 cd Ucode_Libmx
 
 # Compile the library
-make
+make all
 
 # Link with your project
 gcc your_program.c -L. -lmx -o your_program
@@ -692,7 +692,7 @@ libmx/
 │   ├── string/       # String manipulation functions
 │   ├── memory/       # Memory management functions
 │   └── list/         # List operations functions
-├── Makefile          # Compilation instructions
+├── make allfile          # Compilation instructions
 └── README.md         # Documentation
 ```
 
@@ -817,7 +817,7 @@ git clone https://github.com/ArchieDev242/Ucode_Libmx.git
 cd Ucode_Libmx
 
 # Bibliothek kompilieren
-make
+make all
 
 # Mit Ihrem Projekt verknüpfen
 gcc your_program.c -L. -lmx -o your_program
@@ -1073,7 +1073,7 @@ libmx/
 │   ├── string/       # Zeichenkettenmanipulationsfunktionen
 │   ├── memory/       # Speicherverwaltungsfunktionen
 │   └── list/         # Funktionen für Listenoperationen
-├── Makefile          # Kompilierungsanweisungen
+├── make allfile          # Kompilierungsanweisungen
 └── README.md         # Dokumentation
 ```
 
